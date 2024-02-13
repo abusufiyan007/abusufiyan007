@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abusufiyan007
+- 👋 Hi, I’m abu sufiyan
 - 👀 I’m Salesforce Developer
 - 🌱 I’m currently having 3 years of experience
 - 💞️ I’m looking to collaborate on ...
