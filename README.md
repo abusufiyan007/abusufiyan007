@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abusufiyan007
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Salesforce
+- 👀 I’m Salesforce Developer
+- 🌱 I’m currently having 3 years of experience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abusufiyan306@gmail.com
 
